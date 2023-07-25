@@ -1,0 +1,42 @@
+.header-logo{
+    color: var(--iris, #4D5AE5);
+font-family: Raleway;
+font-size: 18px;
+font-weight: 800;
+line-height: 1.16;
+letter-spacing: -0.03em;
+}
+
+/*a{
+    text-decoration: none;
+}*/
+
+/*ul{
+    list-style:none ;
+    list-style-type:none;
+}*/
+
+.link{
+    text-decoration: none;
+}
+.list{
+    list-style-type: none;
+}
+
+
+.header-logo-uk{
+    color: var(--navyblue, #2E2F42);
+font-family: Raleway;
+font-size: 18px;
+font-weight: 800;
+line-height: 1.16;
+letter-spacing: -0.03em;
+}
+.header-menu-link{
+    color: var(--navyblue, #2E2F42);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
