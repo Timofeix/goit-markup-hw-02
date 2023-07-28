@@ -3,12 +3,14 @@
 
 
 .header-logo{
-    color: var(--iris,#2e2f42);
+    color: var(--iris,#4d5ae5);
 font-family: "Raleway";
 font-size: 18px;
 font-weight: 800;
 line-height: 1.17;
 letter-spacing: 0.03em;
+text-transform: uppercase;
+
 }
 
 /*a{
