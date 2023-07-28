@@ -1,16 +1,14 @@
-:root{
-    
-}
+:root{}
 
 
 
 .header-logo{
-    color: var(--iris, #4D5AE5);
-font-family: Raleway;
+    color: var(--iris,#2e2f42);
+font-family: "Raleway";
 font-size: 18px;
 font-weight: 800;
-line-height: 1.16;
-letter-spacing: -0.03em;
+line-height: 1.17;
+letter-spacing: 0.03em;
 }
 
 /*a{
@@ -32,11 +30,12 @@ letter-spacing: -0.03em;
 
 .header-logo-uk{
     color: var(--navyblue, #2E2F42);
-font-family: Raleway;
+font-family: "Raleway";
 font-size: 18px;
 font-weight: 800;
-line-height: 1.16;
-letter-spacing: -0.03em;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
 }
 .header-menu-link{
     color: var(--navyblue, #2E2F42);
