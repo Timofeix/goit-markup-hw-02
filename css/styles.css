@@ -45,7 +45,7 @@ font-family: Roboto;
 font-size: 16px;
 font-weight: 500; 
 line-height: 1.5;
-letter-spacing: -0.02em;
+letter-spacing: 0.02em;
 }
 
 .header-number-list{
@@ -55,7 +55,11 @@ font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: 1.5;
-letter-spacing: -0.02em;
+letter-spacing: 0.02em;
+}
+
+.address .list{
+    font-style: normal
 }
 
 
@@ -70,7 +74,7 @@ font-size: 56px;
 font-style: normal;
 font-weight: 700;
 line-height: 1.07;
-letter-spacing: -0.04em;
+letter-spacing: 0.04em;
 }
 .hero-btn {
     color: var(--white, #FFF);
@@ -79,5 +83,5 @@ font-size: 16px;
 font-style: normal;
 font-weight: 500;
 line-height:1.5;
-letter-spacing: -0.04em;
+letter-spacing: 0.04em;
 }
