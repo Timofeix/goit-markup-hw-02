@@ -50,7 +50,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 .header-menu-link{
-    color: var(--navyblue, #2E2F42);
+    color: var(--navyblue, #434455); 
 font-family: Roboto;
 font-size: 16px;
 font-weight: 500; 
