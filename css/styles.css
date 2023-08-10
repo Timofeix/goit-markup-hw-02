@@ -70,6 +70,7 @@ letter-spacing: 0.02em;
 
 .address.list{
     font-style: normal;  
+    list-style-type: none;
 }
 
 
