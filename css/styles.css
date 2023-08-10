@@ -50,7 +50,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 .header-menu-link{
-    color: var(--navyblue, #434455); 
+    color: var(--navyblue, #2E2F42); 
 font-family: Roboto;
 font-size: 16px;
 font-weight: 500; 
@@ -74,7 +74,7 @@ letter-spacing: 0.02em;
 
 
 .hero {
-    background-color: var(--navyblue, #2E2F42);;
+    background-color: var(--navyblue, #434455);
 }
 .hero-title {
     color: var(--white, #FFF);
