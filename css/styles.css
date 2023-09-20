@@ -51,14 +51,19 @@ text-transform: uppercase;
 }
 
 .header-menu-link{
-    color: var(--navyblue, #434455); 
+    color: var(--navyblue, #2e2f42); 
 font-family: Roboto;
 font-size: 16px;
 font-weight: 500; 
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
-
+.header-menu-link:hover{
+    color: #404bbf;
+}
+.header-menu-link:focus{
+    color: #404bbf;
+}
 .header-number-list{
     color: var(--slate, #434455);
 font-family: Roboto;
@@ -87,6 +92,7 @@ font-style: normal;
 font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;
+
 }
 .hero-btn {
     color: var(--white, #FFFFFF);
