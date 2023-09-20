@@ -49,6 +49,12 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
+.hero-btn:hover{
+    color: #404bbf
+}
+.hero-btn:focus{
+    color: #404bbf
+}
 .header-menu-link{
     color: var(--navyblue, #2E2F42); 
 font-family: Roboto;
