@@ -51,7 +51,7 @@ text-transform: uppercase;
 }
 
 .header-menu-link{
-    color: var(--navyblue, #2E2F42); 
+    color: var(--navyblue, #434455); 
 font-family: Roboto;
 font-size: 16px;
 font-weight: 500; 
@@ -89,7 +89,7 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 }
 .hero-btn {
-    color: var(--white, #2e2f42);
+    color: var(--white, #FFFFFF);
     font-family: "Roboto", sans-serif;
 font-size: 16px;
 font-style: normal;
@@ -101,10 +101,10 @@ cursor: pointer;
 }
 .hero-btn:hover{
     background-color: #404bbf;
-    color:#2e2f42 ;
+    color:#FFFFFF ;
 }
 .hero-btn:focus{
     background-color: #404bbf ;
-    color:#2e2f42 ;
+    color:#FFFFFF ;
 }
 
