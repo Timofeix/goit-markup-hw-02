@@ -65,7 +65,7 @@ letter-spacing: 0.02em;
 .header-menu-link:focus{
     color: #404bbf;
 }
-.header-number-list{
+.header-number-link{
     color: var(--slate, #434455);
 font-family: Roboto;
 font-size: 16px;
@@ -73,6 +73,14 @@ font-style: normal;
 font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02em;
+}
+.header-number-link:hover{
+    color: #404bbf 
+
+}
+
+.header-number-link:focus{
+    color: #404bbf 
 }
 
 .address.list{
