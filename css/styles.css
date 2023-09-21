@@ -134,7 +134,6 @@ cursor: pointer;
 .advanntages-text{
     color:#434455;
     font-size: 16px;
-
     letter-spacing: 0.02em;
     line-height: 1.5;
 
@@ -164,4 +163,11 @@ cursor: pointer;
     letter-spacing: 0.02em;
     color: #2e2f42;
 
+}
+
+.overview-title{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
