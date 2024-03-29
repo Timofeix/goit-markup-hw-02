@@ -263,3 +263,9 @@ border-radius: 4px;
 .hero-two{
     padding: 120px 0;
 }
+
+.advanntages-list{
+    display: flex;
+    gap: 24px;
+}
+
