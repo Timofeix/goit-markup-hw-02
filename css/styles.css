@@ -43,10 +43,17 @@ text-transform: uppercase;
     list-style-type: none;
 }
 
+.header-nav{
+    display: flex;
+    align-items: center;
+    
+}
 
 .head-div{
     display: flex; 
     width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 
 .header-logo-uk{
