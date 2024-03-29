@@ -23,6 +23,10 @@ text-transform: uppercase;
 
 }
 
+.header{
+    border-bottom: 1px solid #e7e9fc;   
+}
+
 /*a{
     text-decoration: none;
 }*/
@@ -39,6 +43,11 @@ text-transform: uppercase;
     list-style-type: none;
 }
 
+
+.head-div{
+    display: flex; 
+    width: 1158px;
+}
 
 .header-logo-uk{
     color: var(--navyblue, #2E2F42);
