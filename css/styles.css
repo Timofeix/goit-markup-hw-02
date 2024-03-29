@@ -89,7 +89,7 @@ letter-spacing: 0.02em;
 .header-number{
     display: flex;
     gap: 40px;
-
+    
 }
 
 
@@ -129,6 +129,7 @@ letter-spacing: 0.02em;
 
 .hero {
     background-color: var(--navyblue, #2e2f42);
+    padding: 188px 0;
 
 }
 .hero-title {
