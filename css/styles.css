@@ -87,9 +87,13 @@ letter-spacing: 0.02em;
 
 .header-number{
     display: flex;
-    gap: 40px;
+    gap: 40spx;
 }
 
+
+.address-list{
+    padding: 24px 0;
+}
 
 .header-menu-link:hover{
     color: #404bbf;
@@ -133,6 +137,7 @@ font-style: normal;
 font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;
+max-width: 496px;
 
 }
 .hero-btn {
@@ -145,6 +150,11 @@ line-height:1.5;
 letter-spacing: 0.04em;
 background-color: #4D5AE5;
 cursor: pointer;
+display: block;
+min-width: 169px;
+height: 56px;
+border: none;
+border-radius: 4px; 
 }
 .hero-btn:hover{
     background-color: #404bbf;
