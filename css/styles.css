@@ -56,6 +56,7 @@ margin-right: 76px;
     margin: 0 auto;
     padding: 0 15px;
     
+    
 }
 
 .header-logo-uk{
@@ -81,13 +82,14 @@ letter-spacing: 0.02em;
 .header-menu-list-list{
     display: flex;
     gap: 40px;
-    padding: 24px 0;
+
 }
 
 
 .header-number{
     display: flex;
-    gap: 40spx;
+    gap: 40px;
+
 }
 
 
@@ -127,6 +129,7 @@ letter-spacing: 0.02em;
 
 .hero {
     background-color: var(--navyblue, #2e2f42);
+
 }
 .hero-title {
     color: var(--white, #FFF);
