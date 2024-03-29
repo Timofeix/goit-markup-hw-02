@@ -81,7 +81,15 @@ letter-spacing: 0.02em;
 .header-menu-list-list{
     display: flex;
     gap: 40px;
+    padding: 24px 0;
 }
+
+
+.header-number{
+    display: flex;
+    gap: 40px;
+}
+
 
 .header-menu-link:hover{
     color: #404bbf;
