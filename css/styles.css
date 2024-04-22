@@ -130,6 +130,7 @@ letter-spacing: 0.02em;
 .hero {
     background-color: var(--navyblue, #2e2f42);
     padding: 188px 0;
+    padding: 24px 0 
 
 }
 .hero-title {
@@ -238,6 +239,7 @@ border-radius: 4px;
 
 .footer{
     background-color: #2e2f42;
+    padding: 100px 0 
 }
 
 .logo-footer{
@@ -248,6 +250,7 @@ border-radius: 4px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
+    margin-bottom: 16px;
 }
 .logo-footer-uk{
     color: #f4f4fd;
