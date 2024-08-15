@@ -26,7 +26,6 @@ margin-right: 76px;
 
 .header{
     border-bottom: 1px solid #e7e9fc;   
-    padding: 24px 0;
 }
 
 /*a{
@@ -125,6 +124,7 @@ letter-spacing: 0.02em;
 .address.list{
     font-style: normal;  
     list-style-type: none;
+    padding: 24px 0;
 }
 
 
