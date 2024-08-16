@@ -257,6 +257,7 @@ border-radius: 4px;
     margin-bottom: 16px;
     text-decoration: none;
     display: inline-block;
+
 }
 .logo-footer-uk{
     color: #f4f4fd;
@@ -271,6 +272,7 @@ border-radius: 4px;
 
 
 .hero-two{
+    margin-bottom: 8px;
     padding: 120px 0;
 }
 
@@ -292,3 +294,15 @@ border-radius: 4px;
     
 
       }
+
+      .visually-hidden {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        margin: -1px;
+        padding: 0;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        border: 0;
+      }
+      
