@@ -59,6 +59,12 @@ margin-right: 76px;
     
 }
 
+.ul{
+    display: flex;
+    gap: 24px; 
+
+
+}
 .header-logo-uk{
     color: var(--navyblue, #2E2F42);
 font-family: "Raleway";
@@ -192,7 +198,7 @@ border-radius: 4px;
 }
 
 .team{
-    background-color: #F4F4FD
+    background-color: #F4F4FD      
     
 }
 .team-title{
@@ -202,6 +208,7 @@ border-radius: 4px;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
 
 .our-team{
@@ -295,14 +302,4 @@ border-radius: 4px;
 
       }
 
-      .visually-hidden {
-        position: absolute;
-        width: 1px;
-        height: 1px;
-        margin: -1px;
-        padding: 0;
-        overflow: hidden;
-        clip: rect(0, 0, 0, 0);
-        border: 0;
-      }
       
