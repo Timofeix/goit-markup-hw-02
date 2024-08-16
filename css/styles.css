@@ -59,7 +59,7 @@ margin-right: 76px;
     
 }
 
-.ul{
+.ulkar{
     display: flex;
     gap: 24px; 
 
@@ -212,7 +212,9 @@ border-radius: 4px;
 }
 
 .our-team{
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
+
+
 
 
 }
@@ -295,6 +297,7 @@ border-radius: 4px;
 
 .advanntages-item{ 
     width: calc((100% - 72px) / 4);
+    
 }
 .Strategy{
     margin-bottom: 8px;
