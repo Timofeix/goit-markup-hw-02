@@ -87,7 +87,7 @@ letter-spacing: 0.02em;
 .header-menu-list-list{
     display: flex;
     gap: 40px;
-
+    padding: 24px 0;
 }
 
 
@@ -137,7 +137,7 @@ letter-spacing: 0.02em;
     background-color: var(--navyblue, #2e2f42);
     padding: 188px 0;
     padding: 24px 0;
-    
+
 
 }
 .hero-title {
