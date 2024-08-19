@@ -187,7 +187,7 @@ border-radius: 4px;
     letter-spacing: 0.02em;
     line-height: 1.2;
     width: calc((100% - 72px) / 4)
-    margin-bottom 8px;
+
 }
 
 .advanntages-text{
@@ -214,9 +214,7 @@ border-radius: 4px;
 
 .our-team{
     background-color: #FFFFFF;
-
-
-
+    margin-bottom: 8px;
 
 }
 
