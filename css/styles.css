@@ -26,8 +26,7 @@ margin-right: 76px;
 
 .header{
     border-bottom: 1px solid #e7e9fc;   
-    padding-top: 24px;
-    bottom: 24px;
+    
 }
 
 /*a{
@@ -92,6 +91,8 @@ letter-spacing: 0.02em;
 .header-menu-list-list{
     display: flex;
     gap: 40px;
+    padding-top: 24px;
+    bottom: 24px;
     
 }
 
