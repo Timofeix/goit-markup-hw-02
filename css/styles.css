@@ -48,6 +48,8 @@ margin-right: 76px;
 .header-nav{
     display: flex;
     align-items: center;
+    padding-top: 24px;
+    bottom: 24px;
 
 }
 
@@ -56,8 +58,7 @@ margin-right: 76px;
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-    padding-top: 24px;
-    bottom: 24px;
+   
     
     
 }
