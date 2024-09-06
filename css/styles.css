@@ -302,6 +302,7 @@ border-radius: 4px;
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
+    margin-bottom: 8px;
   }
 .advanntages-item{ 
     width: calc((100% - 72px) / 4);
