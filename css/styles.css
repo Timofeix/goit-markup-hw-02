@@ -59,13 +59,14 @@ margin-right: 76px;
 }
     .container-flex {
         display: flex;
-        border-radius: 0px 0px 4px 4px; 
+        
     
 }
 
 .ulkar{
     display: flex;
     gap: 24px; 
+    border-radius: 0px 0px 4px 4px;
 
 
 }
