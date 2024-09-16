@@ -202,7 +202,8 @@ letter-spacing: 0.02em;
 }
 
 .team{
-    background-color: #F4F4FD     
+    background-color: #F4F4FD;
+    padding: 120px 0;    
    
     
 }
@@ -269,6 +270,10 @@ letter-spacing: 0.02em;
     margin-bottom: 16px;
     text-decoration: none;
 
+
+        .logo{
+            display: inline-block;
+        }
 
 }
 .logo-footer-uk{
