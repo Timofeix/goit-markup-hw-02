@@ -265,6 +265,11 @@ letter-spacing: 0.02em;
     margin-bottom: 8px;
 }
 
+
+    .text-title{
+        width: calc((100% - 48px) / 3);
+        
+    }
 .portfolio-list{
     display: flex;
     flex-wrap: wrap;
