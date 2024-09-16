@@ -56,8 +56,9 @@ margin-right: 76px;
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-   
-    
+}
+    .container-flex {
+        display: flex;
     
 }
 
