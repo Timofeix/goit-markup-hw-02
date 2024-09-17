@@ -152,7 +152,7 @@ letter-spacing: 0.02em;
     background-color: var(--navyblue, #2e2f42);
     padding-top: 188px;
   padding-bottom: 188px;
-    
+  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpeg)
 
 }
 .hero-title {
