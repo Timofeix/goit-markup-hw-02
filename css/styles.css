@@ -325,18 +325,38 @@ letter-spacing: 0.02em;
 .logo{
     display: inline-block;
     margin-bottom: 16px;
+    font-family: var(--second-family);
+font-weight: 700;
+font-size: 18px;
+line-height: 117%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--iris);
+}
+
+.logo-part{
+    font-family: var(--second-family);
+font-weight: 700;
+font-size: 18px;
+line-height: 117%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--cloud);
 }
 
 .text-footer{
-    line-height: 1.5;
     color:#f4f4fd ;
     letter-spacing: 0.02em;
     max-width: 264px;
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+color: var(--cloud);
 }
 
 
 .hero-two{
-    margin-bottom: 8px;
     padding: 120px 0;
 }
 
