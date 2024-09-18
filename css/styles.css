@@ -1,7 +1,4 @@
-:root{
-   --brand-color:var(--brand-color)
 
-}
 
 body{
     font-family: "Roboto", sans-serif;
@@ -60,6 +57,7 @@ ul{
 }
     .container-flex {
         display: flex;
+        align-items: center;
         
     
 }
@@ -106,18 +104,19 @@ letter-spacing: 0.02em;
 
 
 .header-number{
-
+font-family: var(--font-family);
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
-    
+color: var(--slate);
 }
 
 
 .address-list{
-    padding: 24px 0;
+    font-style: normal;
+    margin-left: auto;
 }
 
 .header-menu-link:hover{
