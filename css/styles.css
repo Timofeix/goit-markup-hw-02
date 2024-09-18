@@ -107,8 +107,14 @@ letter-spacing: 0.02em;
 
 
 .header-number{
-    display: flex;
-    gap: 40px;
+
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: var(--slate);
+text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
     
 }
 
@@ -149,11 +155,11 @@ letter-spacing: 0.02em;
 
 
 .hero {
-    background-color: var(--navyblue, #2e2f42);
+    background-color: #2e2f42;
     padding-top: 188px;
   padding-bottom: 188px;
-  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpeg);
   max-width: 1440px; 
+  height: 600px;
   background-repeat: no-repeat; 
   background-position: center;
   background-size: cover;
