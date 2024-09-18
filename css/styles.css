@@ -72,7 +72,7 @@ ul{
 
 }
 .header-logo-uk{
-    color: var(--navyblue, #2E2F42);
+color: #2e2f42;
 font-family: "Raleway";
 font-size: 18px;
 font-weight: 800;
@@ -83,7 +83,6 @@ text-transform: uppercase;
 
 .header-menu-link{
     color: var(--navyblue, #2e2f42); 
-font-family: Roboto;
 font-size: 16px;
 font-weight: 500; 
 line-height: 1.5;
@@ -108,12 +107,10 @@ letter-spacing: 0.02em;
 
 .header-number{
 
-    font-family: var(--font-family);
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: var(--slate);
 text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
     
 }
@@ -130,8 +127,7 @@ text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
     color: #404bbf;
 }
 .header-number-link{
-    color: var(--slate, #434455);
-font-family: Roboto;
+    color: #434455;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -158,8 +154,6 @@ letter-spacing: 0.02em;
     background-color: #2e2f42;
     padding-top: 188px;
   padding-bottom: 188px;
-  max-width: 1440px; 
-  height: 600px;
   background-repeat: no-repeat; 
   background-position: center;
   background-size: cover;
