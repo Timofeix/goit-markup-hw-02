@@ -177,14 +177,11 @@ letter-spacing: 0.02em;
   background-repeat: no-repeat; 
   background-position: center;
   background-size: cover;
-  margin-left: auto;
-  margin-right: auto;
-  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(/images/people-office\ 1.png);
+    margin:0 auto;
+  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
+   url(../images/people-office\ 1.png);
   max-width: 1440px; 
-  background-repeat: no-repeat; 
-  background-size: cover; 
-  background-position: center;
-
+ 
 }
 .hero-title {
     display: block;
