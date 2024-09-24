@@ -136,10 +136,12 @@ transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 
-.header-menu-item{
+.header-menu-item.after{
     position: relative;
-    color: #404bbf;
+    
 }
+
+
 
 .header-menu-item.after::after{
     content: "";
@@ -151,6 +153,7 @@ transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     border-radius: 2px;
     background-color: #404bbf;
 }
+
 
 .address-list{
     font-style: normal;
