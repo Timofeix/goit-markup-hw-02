@@ -546,6 +546,17 @@ line-height: 150%;
 }
 
 
+.icon-link-footer:hover,
+.icon-link-footer:focus {
+  background-color: #31d0aa;
+}
+
+.container-flex{
+    display: flex;
+  gap: 120px;
+  align-items: baseline;
+}
+
 .visually-hidden {
     position: absolute;
     width: 1px;
