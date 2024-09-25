@@ -363,10 +363,9 @@ letter-spacing: 0.02em;
   }
 
 
-.text-title:hover{
-    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-   
-}
+  .text-title:hover.overlay{
+    transform: translateY(0%);
+  }
 
 
 .portfolio-div{
@@ -374,7 +373,9 @@ letter-spacing: 0.02em;
     overflow: hidden;
 }
 
-.portfolio-div:hover .text-title{
+
+
+.portfolio-div:hover .portfolio-p{
     transform: translateY(0%);
 
 }
