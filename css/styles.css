@@ -557,6 +557,15 @@ line-height: 150%;
   align-items: baseline;
 }
 
+
+.ul-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+
 .visually-hidden {
     position: absolute;
     width: 1px;
