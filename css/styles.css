@@ -626,16 +626,18 @@ line-height: 150%;
 
 
 
-  .form-div-footer {
+  .from-div-footer {
     margin-left: auto;
   }
 
-  .form-footer {
+  .from-footer {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 24px;
   }
+
+
   .form-text {
     font-weight: 500;
     font-size: 16px;
