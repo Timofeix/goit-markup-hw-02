@@ -675,7 +675,7 @@ line-height: 150%;
     font-size: 12px;
     line-height: 2;
     letter-spacing: 0.04em;
-    padding-left: 16px;
+    
     color: #ffffff;
   }
   .form-input-footer::placeholder {
@@ -685,7 +685,7 @@ line-height: 150%;
     line-height: 2;
     letter-spacing: 0.04em;
     color:#ffffff;  
-    padding-left: 16px;
+    
   }
   .form-btn {
     display: flex;
@@ -699,12 +699,13 @@ line-height: 150%;
     height: 40px;
     border: none;
     color: #fff;
-    gap: 24px;
     font-family: "Roboto", sans-serif;
      font-weight: 500;
       line-height: 1.5;
        letter-spacing: 0.04em;
        cursor: pointer;
+
+
   }
   .icon-frame {
     fill: #fff;
@@ -855,7 +856,6 @@ line-height: 150%;
     letter-spacing: 0.04em;
     color: rgba(46, 47, 66, 0.4);
     background-color: transparent;
-    padding: 8px 16px;
     outline: transparent;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
@@ -877,6 +877,7 @@ line-height: 150%;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
+    
   }
   .privacy-link {
     line-height: 1.33333;
@@ -887,6 +888,7 @@ line-height: 150%;
   .castom-checkbox {
     display: inline-flex;
     justify-content: center;
+    margin-right: 8px;
     align-items: center;
     width: 16px;
     height: 16px;
