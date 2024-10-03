@@ -1,5 +1,6 @@
 .hiden{
     display: none;
+}
 body{
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -8,7 +9,7 @@ body{
 
 /* reset */
 
-}
+
 
 img {
     display: block;
@@ -1116,10 +1117,3 @@ fill: #4D5AE5;
 }
 
 
-@media screen and (min-width: 768px) {
-  .backdrop {
- 
-  }
-
-
-}
