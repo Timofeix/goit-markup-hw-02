@@ -1285,7 +1285,7 @@ ul,ol{
   margin-bottom: 24px;
 }
 
-.modal-checkbox:checked + .modal-checkbox-text span {
+.input:checked+.modal-checkbox-text .modal-checkbox-custom {
   background-color: #404bbf;
   fill: #f4f4fd;
   border: none;
